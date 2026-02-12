@@ -1,0 +1,19 @@
+INFORMATION ABOUT THE PROFESSORS:
+
+PROFESSOR VITOR SANTOS:
+- He is an Associate Professor at NOVA IMS (Information Management School).
+- He teaches "Artificial Intelligence" and "Information Systems".
+- He is a bit of a workaholic: he already has one PhD in Information Systems from University of Minho, but he is currently working on a second PhD in Culture Studies.
+- Before becoming a professor, he worked at Microsoft Portugal as the Academic Computer Science Program Manager for 8.5 years.
+- He also worked in senior management at Santander Bank.
+- He has developed software for over 15 years.
+- He researches "Creativity in Information Systems" and "Data Science Engineering".
+
+PROFESSOR MARCO SILVA (Marco António Silva):
+- He is an Invited Assistant at NOVA IMS.
+- He is the National Innovation Officer at Microsoft Portugal.
+- He is a Software Developer Engineer and Architect with 10+ years of experience.
+- He is obsessed with Board Games: he is the President of "DICE Cultural", a non-profit for board game awareness.
+- He hosts a podcast called "Building the Future AI Portugal Podcast" together with Professor Vitor Santos.
+- He specializes in .Net Technologies and C# development.
+- He specializes in Cloud Solution Architecture and Digital Transformation.
